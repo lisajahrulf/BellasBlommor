@@ -30,3 +30,35 @@ c:\users\lisa\documents\visual studio 2015\Projects\BolinsBlommor\BolinsBlommor\
 c:\users\lisa\documents\visual studio 2015\Projects\BolinsBlommor\BolinsBlommor\obj\Debug\BolinsBlommor.csprojResolveAssemblyReference.cache
 c:\users\lisa\documents\visual studio 2015\Projects\BolinsBlommor\BolinsBlommor\obj\Debug\BolinsBlommor.dll
 c:\users\lisa\documents\visual studio 2015\Projects\BolinsBlommor\BolinsBlommor\obj\Debug\BolinsBlommor.pdb
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\roslyn\csc.exe
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\roslyn\vbc.exe
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\BolinsBlommor.dll.config
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\BolinsBlommor.dll
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\BolinsBlommor.pdb
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\EntityFramework.dll
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\EntityFramework.SqlServer.dll
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\Newtonsoft.Json.dll
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\System.Net.Http.Formatting.dll
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\System.Web.Http.dll
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\System.Web.Http.WebHost.dll
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\EntityFramework.xml
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\EntityFramework.SqlServer.xml
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\Newtonsoft.Json.xml
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\System.Net.Http.Formatting.xml
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\System.Web.Http.xml
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\bin\System.Web.Http.WebHost.xml
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\obj\Debug\BolinsBlommor.csprojResolveAssemblyReference.cache
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\obj\Debug\BolinsBlommor.dll
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\obj\Debug\BolinsBlommor.pdb
