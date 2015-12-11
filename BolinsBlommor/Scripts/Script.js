@@ -27,6 +27,22 @@
         console.log(data);
         $scope.Orders = data;
 
+        for (var i = 0; i < $scope.Orders.length; i++) {
+
+            switch ($scope.Orders[i].Status) {
+                case 1:
+                    $scope.Orders[i].Status = "Skapad";
+                    break;
+                case 2:
+                    $scope.Orders[i].Status = "Påbörjad";
+                    break;
+                case 3:
+                    $scope.Orders[i].Status = "Levererad";
+                    break;
+            }
+
+        }
+
     }).error(function () {
 
         alert("error orders");
