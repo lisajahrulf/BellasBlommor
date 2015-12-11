@@ -1,0 +1,28 @@
+﻿* {
+
+    margin: 0 auto;
+    padding: 0;
+
+}
+
+body {
+
+    background-color: brown;
+
+}
+
+.listOfItems {
+
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    background-color: #ff8b5f;
+    color: brown;
+
+}
+
+td {
+
+    font-size: 20px;
+
+}

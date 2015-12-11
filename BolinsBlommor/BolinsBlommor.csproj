@@ -91,6 +91,7 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="Scripts\Script.js" />
+    <Content Include="Views\CSS\Style.css" />
     <Content Include="Views\Index.html" />
     <Content Include="Web.config" />
   </ItemGroup>

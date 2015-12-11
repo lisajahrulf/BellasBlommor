@@ -2,28 +2,62 @@
 <html xmlns="http://www.w3.org/1999/xhtml" ng-app="app" ng-controller="controller">
 <head>
     <title>Bellas Blommor</title>
+    <link href="CSS/Style.css" rel="stylesheet" />
 </head>
 <body>
 
-    <div ng-repeat="Bouqette in Bouqettes">
-        <p>{{Bouqette.Name}}</p>
-        <p>{{Bouqette.Description}}</p>
-        <p>{{Bouqette.Price}}</p>
+    <div class="listOfItems">
+        <h1>Bouqettes</h1>
+        <table>
+            <tr>
+                <td>Name</td>
+                <td>Description</td>
+                <td>Price</td>
+            </tr>
+            <tr ng-repeat="Bouqette in Bouqettes">
+                <td>{{Bouqette.Name}}</td>
+                <td>{{Bouqette.Descripton}}</td>
+                <td>{{Bouqette.Price}}</td>
+            </tr>
+        </table>
+    </div>
+    
+    <div class="listOfItems">
+        <h1>DeliveryPeople</h1>
+        <table>
+            <tr>
+                <td>Name</td>
+                <td>PhoneNumber</td>
+            </tr>
+            <tr ng-repeat="DeliveryPerson in DeliveryPersons">
+                <td>{{DeliveryPerson.Name}}</td>
+                <td>{{DeliveryPerson.PhoneNumber}}</td>
+            </tr>
+        </table>
     </div>
 
-    <div ng-repeat="DeliveryPerson in DeliveryPersons">
-        <p>{{DeliveryPerson.Name}}</p>
-        <p>{{DeliveryPerson.PhoneNumber}}</p>
-    </div>
-
-    <div ng-repeat="Order in Orders">
-        <p>{{Order.Address}}</p>
-        <p>{{Order.Sender}}</p>
-        <p>{{Order.Receiver}}</p>
-        <p>{{Order.Message}}</p>
-        <p>{{Order.Status}}</p>
-        <p>{{Order.TotalPrice}}</p>
-        <p>{{Order.DeliveryPersonId}}</p>
+    <div class="listOfItems">
+        <h1>Orders</h1>
+        <table>
+            <tr>
+                <td>Order.Address</td>
+                <td>Order.Sender</td>
+                <td>Order.Receiver</td>
+                <td>Order.Message</td>
+                <td>Order.Status</td>
+                <td>Order.TotalPrice</td>
+                <td>Order.DeliveryPersonId</td>
+            </tr>
+            <tr ng-repeat="Order in Orders">
+                <td>{{Order.Address}}</td>
+                <td>{{Order.Sender}}</td>
+                <td>{{Order.Receiver}}</td>
+                <td>{{Order.Message}}</td>
+                <td>{{Order.Status}}</td>
+                <td>{{Order.TotalPrice}}</td>
+                <td>{{Order.DeliveryPersonId}}</td>
+            </tr>
+        </table>
     </div>
 
     <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
