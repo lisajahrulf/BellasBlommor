@@ -7,13 +7,13 @@ namespace BolinsBlommor.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.1.3-40302")]
-    public sealed partial class removedorderIdfromBouqettes : IMigrationMetadata
+    public sealed partial class initial : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(removedorderIdfromBouqettes));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(initial));
         
         string IMigrationMetadata.Id
         {
-            get { return "201512081342081_removed orderId from Bouqettes"; }
+            get { return "201512111344425_initial"; }
         }
         
         string IMigrationMetadata.Source
