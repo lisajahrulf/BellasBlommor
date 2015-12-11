@@ -62,3 +62,7 @@ C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\Bella
 C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\obj\Debug\BolinsBlommor.csprojResolveAssemblyReference.cache
 C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\obj\Debug\BolinsBlommor.dll
 C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\obj\Debug\BolinsBlommor.pdb
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\obj\Debug\BolinsBlommor.Migrations.removedorderIdfromBouqettes.resources
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\obj\Debug\BolinsBlommor.csproj.GenerateResource.Cache
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\obj\Debug\BolinsBlommor.Migrations.floatnullableintstatus.resources
+C:\Users\Lee.LeeLaptop\Google Drive\SUW14 - Lee Work\Serverprogrammering 2\BellasBlommor\BellasBlommor\BolinsBlommor\obj\Debug\BolinsBlommor.Migrations.deliverypersonidnullable.resources

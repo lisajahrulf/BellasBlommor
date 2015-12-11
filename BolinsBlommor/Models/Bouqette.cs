@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
@@ -10,10 +12,9 @@ namespace BolinsBlommor.Models
         public int Id { get; set; }
         public string Name { get; set; }
         public string Descripton { get; set; }
-
         public float Price { get; set; }
 
-        public int OrderId { get; set; }
-        public virtual Order Order { get; set; }
+        [NotMapped]
+        public virtual List<OrderBouqette> OrderBouqettes { get; set; }
     }
 }

@@ -19,6 +19,12 @@ namespace BolinsBlommor.Controllers
         // GET: api/Orders
         public IQueryable<Order> GetOrders()
         {
+            foreach (Order order in db.Orders) {
+                order.SetTotalPrice();
+            }
+
+            db.SaveChanges();
+
             return db.Orders;
         }
 

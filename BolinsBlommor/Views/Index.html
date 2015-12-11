@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="app" ng-controller="controller">
+<head>
+    <title>Bellas Blommor</title>
+</head>
+<body>
+
+    <div ng-repeat="Bouqette in Bouqettes">
+        <p>{{Bouqette.Name}}</p>
+        <p>{{Bouqette.Description}}</p>
+        <p>{{Bouqette.Price}}</p>
+    </div>
+
+    <div ng-repeat="DeliveryPerson in DeliveryPersons">
+        <p>{{DeliveryPerson.Name}}</p>
+        <p>{{DeliveryPerson.PhoneNumber}}</p>
+    </div>
+
+    <div ng-repeat="Order in Orders">
+        <p>{{Order.Address}}</p>
+        <p>{{Order.Sender}}</p>
+        <p>{{Order.Receiver}}</p>
+        <p>{{Order.Message}}</p>
+        <p>{{Order.Status}}</p>
+        <p>{{Order.TotalPrice}}</p>
+        <p>{{Order.DeliveryPersonId}}</p>
+    </div>
+
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <script src="../Scripts/Script.js"></script>
+</body>
+</html>

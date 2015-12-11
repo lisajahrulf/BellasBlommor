@@ -90,6 +90,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="Scripts\Script.js" />
+    <Content Include="Views\Index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -100,11 +102,24 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201512081342081_removed orderId from Bouqettes.cs" />
+    <Compile Include="Migrations\201512081342081_removed orderId from Bouqettes.Designer.cs">
+      <DependentUpon>201512081342081_removed orderId from Bouqettes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201512081418369_float nullable int status.cs" />
+    <Compile Include="Migrations\201512081418369_float nullable int status.Designer.cs">
+      <DependentUpon>201512081418369_float nullable int status.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201512081423257_deliverypersonid nullable.cs" />
+    <Compile Include="Migrations\201512081423257_deliverypersonid nullable.Designer.cs">
+      <DependentUpon>201512081423257_deliverypersonid nullable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Bouqette.cs" />
     <Compile Include="Models\DataContext.cs" />
     <Compile Include="Models\DeliveryPerson.cs" />
     <Compile Include="Models\Order.cs" />
+    <Compile Include="Models\OrderBouqette.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -118,6 +133,17 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201512081342081_removed orderId from Bouqettes.resx">
+      <DependentUpon>201512081342081_removed orderId from Bouqettes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201512081418369_float nullable int status.resx">
+      <DependentUpon>201512081418369_float nullable int status.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201512081423257_deliverypersonid nullable.resx">
+      <DependentUpon>201512081423257_deliverypersonid nullable.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

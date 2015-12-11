@@ -24,5 +24,8 @@ namespace BolinsBlommor.Models
         public System.Data.Entity.DbSet<BolinsBlommor.Models.Order> Orders { get; set; }
 
         public System.Data.Entity.DbSet<BolinsBlommor.Models.DeliveryPerson> DeliveryPersons { get; set; }
+
+        public System.Data.Entity.DbSet<BolinsBlommor.Models.OrderBouqette> OrderBouqette { get; set; }
+
     }
 }

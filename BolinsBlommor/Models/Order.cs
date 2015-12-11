@@ -28,23 +28,28 @@ namespace BolinsBlommor.Models
         public string Sender { get; set; }
         public string Receiver { get; set; }
         public string Messsage { get; set; }
-        public string Status { get; set; }
-        public float TotalPrice { get; set; }
+        public int Status { get; set; }
+        public float? TotalPrice { get; set; }
 
-        public virtual List<Bouqette> Bouqettes { get; set; }
-        public int DeliveryPersonId { get; set; }
+        public virtual List<OrderBouqette> OrderBouqettes { get; set; }
+        public int? DeliveryPersonId { get; set; }
         public virtual DeliveryPerson DeliveryPerson { get; set; }
 
-        public Order()
+        public float? SetTotalPrice()
         {
+            
             TotalPrice = 0;
-            foreach (Bouqette bouqette in Bouqettes)
+
+            foreach (OrderBouqette ob in OrderBouqettes)
             {
-                TotalPrice += bouqette.Price;
+                TotalPrice += ob.Bouqette.Price;
             }
+
+            return TotalPrice;
+            
         }
 
-       public string GetStatus(int status)
+        public string GetStatus(int status)
         {
             switch(status)
             {
