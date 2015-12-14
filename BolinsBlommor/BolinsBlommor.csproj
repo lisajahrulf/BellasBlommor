@@ -146,7 +146,7 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\Script.js" />
-    <Content Include="Views\CSS\Style.css" />
+    <Content Include="CSS\Style.css" />
     <Content Include="Views\Index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
